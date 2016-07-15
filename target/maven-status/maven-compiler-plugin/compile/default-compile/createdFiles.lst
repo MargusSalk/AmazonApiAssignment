@@ -1,0 +1,5 @@
+com\triplea\SearchController.class
+com\triplea\AmazonApi\SignedRequestsHelper.class
+com\triplea\MainController.class
+com\triplea\AmazonApi\ItemSearch.class
+com\triplea\Item.class
