@@ -1,0 +1,1 @@
+For this app to work you have to add your AWS credentials to ItemSearch.java (AWS_ACCESS_KEY_ID, AWS_ASSOCIATE_TAG ja AWS_SECRET_KEY)
